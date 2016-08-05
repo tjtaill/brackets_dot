@@ -1,0 +1,18 @@
+{
+    "name": "tjtaill.brackets_dot",
+    "title": "Dot Syntax Highlighter",
+    "description": "Simple Adobe Brackets extension to add Graphviz Dot Syntax Highlighting.",
+    "homepage": "https://github.com/tjtaill/brackets_dot",
+    "version": "0.0.1",
+    "author": "Troy Taillefer (https://github.com/tjtaill)",
+    "license": "MIT",
+    "keywords": [
+        "graphviz",
+        "dor",
+        "language",
+        "highlight",
+        "highlighter",
+        "highlighting",
+        "syntax"
+    ]
+}
