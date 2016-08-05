@@ -19,7 +19,7 @@ define(function (require, exports, module) {
         LanguageManager.defineLanguage("dot", {
                 name: "DOT",
                 mode: "dot",
-                fileExtensions: ["dot"],
+                fileExtensions: ["dot", "gv", "gvdot"],
                 blockComment: ["/*", "*/"],
                 lineComment: ["//"]
             });
