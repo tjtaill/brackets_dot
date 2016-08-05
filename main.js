@@ -6,7 +6,7 @@ define(function (require, exports, module) {
 
     var LanguageManager = brackets.getModule("language/LanguageManager");
     var CodeMirror = brackets.getModule("thirdparty/CodeMirror2/lib/codemirror");
-    var dot = brackets.getModule("dot");
+    var dot = require("./dotlanguage");
     var AppInit	= brackets.getModule("utils/AppInit")
     
    
